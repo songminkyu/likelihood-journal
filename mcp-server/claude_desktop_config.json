@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "counting-chars": {
+      "command": "node",
+      "args": [
+        "d:\\00_OpenCV_Project\\Study_at_Australia\\@LLM\\@Agent-mcp\\modelcontextprotocol-servers\\src\\counting-chars\\dist\\index.js"
+      ]
+    },
+	"filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/USER/Desktop",
+		"D://"
+      ]
+    }
+  }
+}
