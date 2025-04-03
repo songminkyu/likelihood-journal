@@ -12,6 +12,7 @@
         "-y",
         "@modelcontextprotocol/server-filesystem",
         "/Users/USER/Desktop",
+		"C://",
 		"D://"
       ]
     }
