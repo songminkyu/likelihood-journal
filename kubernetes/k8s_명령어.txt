@@ -1,0 +1,13 @@
+kubectl apply -f <yml 파일>
+
+kubectl delete -f <yml 파일>
+
+kubectl get <pods or replicaset>
+
+kubectl describe pod
+
+kubectl describe pod <container id>
+
+kubectl describe replicaset
+
+kubectl rollout status deployment/nginx-deployment
