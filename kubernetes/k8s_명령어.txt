@@ -10,4 +10,6 @@ kubectl describe pod <container id>
 
 kubectl describe replicaset
 
+kubectl describe deployment
+
 kubectl rollout status deployment/nginx-deployment
